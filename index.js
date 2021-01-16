@@ -29,9 +29,52 @@ var friendsName = ['samia', 'lamia','chadny','adiba','sania'];
  // }
 
  
-var nums=[55,77,88,99,00,44,43];
+// var nums=[55,77,88,99,00,44,43];
 
-for (var i=0; i<nums.length; i++){
-    var arrayDate= nums[i];
-    console.log(arrayDate);
+// for (var i=0; i<nums.length; i++){
+//     var arrayDate= nums[i];
+//     console.log(arrayDate);
+// }
+
+
+var num= 05;
+
+switch (num) {
+    case 1000:
+        console.log("pai nai");
+        break;
+        case 50:
+        console.log("pai nai 2");
+        break;
+        case 1:
+        console.log("pai nai 3");
+        break;
+        case 5:
+        console.log("paichi 4");
+        break;
+        default:
+            console.log("mara shara")
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
