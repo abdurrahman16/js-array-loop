@@ -37,25 +37,37 @@ var friendsName = ['samia', 'lamia','chadny','adiba','sania'];
 // }
 
 
-var num= 05;
+// var num= 05;
 
-switch (num) {
-    case 1000:
-        console.log("pai nai");
-        break;
-        case 50:
-        console.log("pai nai 2");
-        break;
-        case 1:
-        console.log("pai nai 3");
-        break;
-        case 5:
-        console.log("paichi 4");
-        break;
-        default:
-            console.log("mara shara")
+// switch (num) {
+//     case 1000:
+//         console.log("pai nai");
+//         break;
+//         case 50:
+//         console.log("pai nai 2");
+//         break;
+//         case 1:
+//         console.log("pai nai 3");
+//         break;
+//         case 5:
+//         console.log("paichi 4");
+//         break;
+//         default:
+//             console.log("mara shara")
+// }
+
+function myFunction(){
+    console.log("bokachoda running");
+    console.log("next ki korba?");
 }
-
+myFunction();
+var date=14;
+var date=14;
+var date=14;
+var date=14;
+var date=14;
+var date=14;
+myFunction();
 
 
 
