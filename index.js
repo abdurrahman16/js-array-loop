@@ -18,6 +18,20 @@ var friendsName = ['samia', 'lamia','chadny','adiba','sania'];
 
 // friendsName.shift('babu');
 // console.log(friendsName);
- var part = friendsName.slice(2, 4)
- console.log(part);
- console.log(friendsName);
+//  var part = friendsName.slice(2, 4)
+//  console.log(part);
+//  console.log(friendsName);
+
+// var num=0;
+// while( num<10){
+//     console.log(num);
+//     num++;
+ // }
+
+ 
+var nums=[55,77,88,99,00,44,43];
+
+for (var i=0; i<nums.length; i++){
+    var arrayDate= nums[i];
+    console.log(arrayDate);
+}
