@@ -56,18 +56,69 @@ var friendsName = ['samia', 'lamia','chadny','adiba','sania'];
 //             console.log("mara shara")
 // }
 
-function myFunction(){
-    console.log("bokachoda running");
-    console.log("next ki korba?");
-}
-myFunction();
-var date=14;
-var date=14;
-var date=14;
-var date=14;
-var date=14;
-var date=14;
-myFunction();
+// function myFunction(){
+//     console.log("bokachoda running");
+//     console.log("next ki korba?");
+// }
+// myFunction();
+// var date=14;
+// var date=14;
+// var date=14;
+// var date=14;
+// var date=14;
+// var date=14;
+// myFunction();
+// function babu(num){
+//      var result= num*2;
+//     return result;
+// }
+// var x= babu(2);
+// console.log(x);
+// var y= babu(5);
+// console.log(y);
+// console.log(x+y);
+
+
+var student = {
+    id: 121,
+    name: 'babu',
+    sex: 'M'
+};
+student.id =111;
+console.log(student);
+
+
+student.phone=0166;
+console.log(student);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
